@@ -57,4 +57,4 @@ origin 이라는 이름과 본인레포주소가 맞는지,  upstream 이름과 
 
 
 
-🧡 코너 - [김지민](https://github.com/jimin-ni)
+🧡 _**CORNER**_ - [김지민](https://github.com/jimin-ni)
