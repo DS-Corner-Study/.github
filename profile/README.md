@@ -21,13 +21,13 @@
 3. 터미널 실행 > git bash 실행하기 >> 이하 작업은 터미널에서 작성하는 명령어입니다.
 4. 내 현재 위치가 1에서 만든 로컬 폴더 위치인지 확인하기.
 아니라면 파일 위치 이동하기 ! (cd 명령어를 이용해주세요)
-5. ```git init ```
+5. ``` git init ```
 << 현재 연결된 레포 주소 삭제 및 초기화
-6. ``` git remote add origin  본인레포주소``` 
+6. ``` git remote add origin  본인레포주소 ``` 
 << origin 이라는 이름으로 본인 레포 주소를 넣습니다.
-7. ``` git remote add upstream 조직레포주소``` 
+7. ``` git remote add upstream 조직레포주소 ``` 
 << upstream 이라는 이름으로 조직 레포 주소를 넣습니다.
-8. ``` git remote -v```
+8. ``` git remote -v ```
 << 현재 폴더와 연결된 레포 주소를 모두 확인할 수 있습니다. origin 이라는 이름과 본인레포주소가 맞는지,  upstream 이름과 조직 레포 주소가 맞는지 확인해주세요
 </br> </br> </br> </br>
 
